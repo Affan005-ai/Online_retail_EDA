@@ -4,11 +4,6 @@
 This project analyzes an **Online Retail dataset** to extract insights about sales, customers, products, and countries.  
 The analysis includes **data cleaning, exploratory data analysis (EDA), customer segmentation (RFM)**, and visualization.
 
----
-
-## 📂 Project Structure
-
-
 
 ---
 
@@ -30,14 +25,27 @@ The analysis includes **data cleaning, exploratory data analysis (EDA), customer
 ---
 
 ## 📸 Visualizations
+-
+- **Daily Sales Trendd**  
+  ![Daily Sales Trend](images/Daily_Sales_Trend.png)  
+
+- **Monthly Sales Trends Bar Plot**  
+  ![Monthly Sales Trends Bar Plot](images/Revenue_By_Top_10_Products.png)
+  
+- **Weekly Sales Pattern**  
+  ![Weekly Sales Pattern](images/Weekly_Sales_Pattern.png)
+  
 - **Top 10 Products by Quantity Sold**  
-  ![Top Products](images/top_products.png)  
+  ![Top Products](images/Revenue_By_Top_10_Products.png)
+
+- **Top 10 Loyal Customers (Most Orders)**  
+  ![Top 10 Loyal Customers](images/Top_10_Loyal_Customers_(Most Orders).png)   
 
 - **Monthly Sales Trends**  
-  ![Sales Trends](images/sales_trends.png)  
+  ![Sales Trends](images/Sales_Trend_By_Month.png)  
 
 - **RFM Segmentation**  
-  ![RFM Segmentation](images/rfm_segmentation.png)  
+  ![RFM Segmentation](images/Customer_Segments_based_on_RFM_Analysis.png)  
 
 ---
 
